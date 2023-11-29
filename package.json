@@ -13,6 +13,8 @@
     "prettier-plugin-astro": "^0.12.0"
   },
   "dependencies": {
+    "@builder.io/qwik": "^1.2.19",
+    "@qwikdev/astro": "^0.2.5",
     "cypress": "^10.0.3"
   }
 }
